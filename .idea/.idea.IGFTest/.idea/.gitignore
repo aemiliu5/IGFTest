@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.IGFTest.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\EmiliosSeimenis\Documents\GitHub\IGFTest\.idea\.idea.IGFTest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
